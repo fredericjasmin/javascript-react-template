@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #61DBFB;
+  color: #282c34;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.navbar p a {
+  text-decoration: none;
+}
+.active {
+  font-weight: bold;
+}
